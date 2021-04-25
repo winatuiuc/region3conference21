@@ -1,8 +1,8 @@
-title: Conference 2020
+title: WiN Region 3 Conference 2021
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  WiN Region 3 Conference 2021, hosted by WiN UIUC Student Chapter
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://winatuiuc.github.io/region3conference21" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
