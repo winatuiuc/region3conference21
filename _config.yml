@@ -4,6 +4,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winatuiuc.github.io/region3conference21" # the base hostname & protocol for your site, e.g. https://example.com
 
+plugins: jekyll-include-cache
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
 
 # Build settings
