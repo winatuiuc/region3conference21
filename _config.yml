@@ -1,7 +1,7 @@
 title: WiN Region 3 Conference 2021
 description: >-
   WiN Region 3 Conference 2021, hosted by WiN UIUC Student Chapter
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://winatuiuc.github.io/region3conference21" # the subpath of your site, e.g. /blog
 url: "https://winatuiuc.github.io/region3conference21" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
