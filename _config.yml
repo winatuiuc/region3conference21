@@ -18,7 +18,6 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - purgecss.config.js
-  - assets/css/main.scss
 
 # Collections and their defaults
 collections:
